@@ -81,12 +81,6 @@
     width: 206%;
     background: #ffffff;
     border-radius: 0.25rem;
-=======
-    height: 10rem;
-    width: 100%;
-    background: var(--primary-100);
-    border-radius: .25rem;
->>>>>>> parent of d9d8c02 (css new)
     overflow: hidden;
     background-position: center;
     background-size: cover;
